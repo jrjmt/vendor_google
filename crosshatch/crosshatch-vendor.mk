@@ -1571,11 +1571,8 @@ PRODUCT_PACKAGES += \
     libbtnv \
     libsdsprpc \
     TimeService \
-    com.google.android.camera.experimental2018 \
-    android.hardware.identity.strongbox \
-    android.hardware.keymaster@4.1-service.citadel \
-    android.hardware.weaver@1.0-service.citadel \
-    manifest_android.hardware.drm@1.3-service.widevine \
-    manifest_wifi_ext \
-    rebootescrow-citadel \
-    vendor.google.wireless_charger@1.3-service-vendor
+    com.qualcomm.qti.services.secureui \
+    EuiccGoogle \
+    HotwordEnrollmentOKGoogleWCD9340 \
+    HotwordEnrollmentXGoogleWCD9340 \
+    com.google.android.camera.experimental2018
